@@ -385,7 +385,7 @@
   <header>
     <div class="header-inner">
       <div class="logo">
-        <div class="logo-main">PLAT'EA</div>
+        <div class="logo-main">PLATÉA</div>
         <div class="logo-sub">FASTFOOD</div>
       </div>
       <button class="lang-btn" onclick="toggleLang()" id="langBtn">🇬🇧 English</button>
